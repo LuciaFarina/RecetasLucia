@@ -5,6 +5,10 @@ body{
 h1{
     background-color: yellow;
 }
+.logoLu{
+    margin: auto;
+    display: block;
+}
 h2{
     background-color: #EAEAEA;
     font-style: italic;
