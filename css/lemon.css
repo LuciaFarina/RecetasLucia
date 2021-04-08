@@ -1,19 +1,35 @@
 
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Inter', sans-serif;
+    color: #444;
+    background-image:url("../img/fondo2.jpg");
+    background-size: 200px;
 }
-h1{
-    background-color: yellow;
+.fondoLemon{
+    background-image: url('../img/lemonNuevo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white
+
+
 }
 .logoLu{
     margin: auto;
     display: block;
 }
 h2{
-    background-color: #EAEAEA;
-    font-style: italic;
+        font-family: 'Playfair Display', serif;
     font-weight: bold;
+    color: black
 }
 h3{
-    font-style: italic;
+    font-family: 'Playfair Display', serif;
+    color: black
+}
+ul{
+    background-color: whitesmoke;
+
+}
+ol{
+    background-color: whitesmoke
 }
